@@ -1,3 +1,5 @@
+package Woche_001;
+
 import java.util.*;
 
 public class Main {
