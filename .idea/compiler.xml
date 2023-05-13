@@ -3,6 +3,8 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="GradleTest" target="17" />
+      <module name="GradleTest.main" target="17" />
+      <module name="GradleTest.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

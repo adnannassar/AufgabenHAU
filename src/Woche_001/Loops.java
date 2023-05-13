@@ -1,11 +1,14 @@
 package Woche_001;
 
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 public class Loops {
     public static void main(String[] args) {
-        List<Integer> zahlen = List.of(1, 2, 3);
+        List<Integer> zahlen = List.of(10, 20, 30);
+
+        System.out.println(zahlen);
 
         for (int i = 0; i < zahlen.size() - 1; i++) {
             System.out.print(zahlen.get(i) + " ");
@@ -30,5 +33,8 @@ public class Loops {
             }
             System.out.println();
         }
+
     }
+
+
 }
