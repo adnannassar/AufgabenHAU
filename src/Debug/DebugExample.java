@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class DebugExample {
     public static void main(String[] args) {
+        System.out.println("Hallo to my App");
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nr1: ");
         int nr1 = scanner.nextInt();
